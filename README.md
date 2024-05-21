@@ -100,11 +100,10 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
+* 0.2.1 - 21/05/2024
+    * CONSERTADO: Correção no Bug da turbidez  (Hebert)
+* 0.2.0 - 21/05/2024
+    * MUDANÇA: Compra da caixa organizadora (Alexandra) `setDefaultXYZ()`
 * 0.1.1 - 11/01/2022
     * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
 * 0.1.0 - 10/01/2022
@@ -128,4 +127,3 @@ Aqui estão as referências usadas no projeto.
 4. Maretório: o impacto da maré nos territórios de comunidades costeiras. Disponível em: https://tinyurl.com/4htym3nc. Acesso em: 25 abr. 2024.
 5. Efeitos do aquecimento global ameaçam vida marinha. Disponível em: https://tinyurl.com/bdcfmnnr. Acesso em: 25 abr. 2024.
 6. Paulo Horta et a. Mudanças Climáticas e a zona costeira do Brasil: vulnerabilidades socioambientais e estratégias de ação. Vol.11.3, dez/2020. Disponível em: https://tinyurl.com/mrxezh7w. Acesso em: 25 abr. 2024.
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
