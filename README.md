@@ -57,33 +57,35 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-<br>##📖 Requisitos</br>
+## 📖 Requisitos
 <br>🛠 Hardware</br>
-<br>•	ESP32</br>
-<br>•	Sensor de temperatura DS18B20</br>
-<br>•	Sensor de turbidez</br>
-<br>•	Protoboard e Jumpers</br>
-<br>•	Conexão Wi-Fi</br>
+ <br>•	ESP32</br>
+ <br>•	Sensor de temperatura DS18B20</br>
+ <br>•	Sensor de turbidez</br>
+ <br>•	Protoboard e Jumpers</br>
+ <br>•	Conexão Wi-Fi</br>
 <br>💻 Software:</br>
-<br>•	Arduino IDE</br>
-<br>•	Conta no Firebase (para transmissão de dados)</br>
-<br>•	Conta no Flutter Flow (para visualização dos dados)</br>
+ <br>•	Arduino IDE</br>
+ <br>•	Conta no Firebase (para transmissão de dados)</br>
+ <br>•	Conta no Flutter Flow (para visualização dos dados)</br>
 
-<br>#⌨Instalação Arduino IDE</br>
+## 🛠 Instalação Arduino IDE
+
 <br>•Instale o <a href="https://www.arduino.cc/en/software">Arduino IDE</a> a partir do site oficial.</br>
 <br>•	Abra o Arduino IDE após a instalação.</br>
 
-<br>#⚙Configuração do Arduino IDE para ESP32:</br>
+<br>⚙Configuração do Arduino IDE para ESP32:</br>
 <br>•	No Arduino IDE, vá em File > Preferences.</br>
 <br>•	Adicione a URL a seguir ao campo "Additional Board Manager URLs"
 ```sh
-https://dl.espressif.com/dl/package_esp32_index.json<br>
+https://dl.espressif.com/dl/package_esp32_index.json
 ````
 <br>•	Vá em Tools > Board > Boards Manager, procure por "esp32" e clique em instalar.</br>
 
-<br>#💻Instalação de Bibliotecas</br>
+## 💻 Instalação de Bibliotecas
+
 <br>•	Firebase ESP Client:</br>
-•	Acesse o repositório no GitHub: <a href="https://github.com/mobizt/Firebase-ESP-Client"> Firebase ESP Client</a>.
+<br>•	Acesse o repositório no GitHub: <a href="https://github.com/mobizt/Firebase-ESP-Client"> Firebase ESP Client</a>.</br>
 <br>•	Clique no botão "Code" e selecione "Download ZIP" para baixar a biblioteca em formato .zip.</br>
 <br>•	Abra o Arduino IDE.</br>
 <br>•	Vá em Sketch > Include Library > Add .ZIP Library....</br>
@@ -105,7 +107,7 @@ https://dl.espressif.com/dl/package_esp32_index.json<br>
  <br>•	Na caixa de busca, digite "WiFi".</br>
  <br>•	Selecione a biblioteca WiFi para ESP32 e clique em "Install".</br>
  
- <br>#⚙Configuração do Hardware</br>
+ <br> ##⚙Configuração do Hardware</br>
  <br>1.	Conectar o Sensor DS18B20 ao ESP32:</br>
 <br>•	Conecte o 3.3V do ESP32 à barra de alimentação positiva (+) na protoboard.</br>
 <br>•	Conecte o GND do ESP32 à barra de alimentação negativa (-) na protoboard.</br>
@@ -120,7 +122,7 @@ https://dl.espressif.com/dl/package_esp32_index.json<br>
  <br>•	Conecte o GND do sensor de turbidez ao GND do ESP32.</br>
  <br>•	Conecte o pino OUT do sensor de turbidez ao pino GPIO 32 do ESP32.</br>
 
-<br>#⚙Configuração do Firebase</br>
+ ## ⚙Configuração do Firebase
 <br>1.	No Firebase Console</br>
  <br>•	Vá para Firestore Database e crie uma nova coleção chamada leitura.</br>
  <br>•	Dentro da coleção leitura, crie um documento com campos correspondentes aos dados que você está enviando do ESP32: temperatura, turbidez, condicao, data, horario.</br>
@@ -144,23 +146,23 @@ Execute o APK e siga as instruções de seu telefone.
 ```sh
 Coloque código do prompt de comnando se for necessário
 ```
-<br>#⌨Carregar o Código no ESP32</br>
+## ⌨Carregar o Código no ESP32
 <br>1.	Conecte o ESP32 ao computador via cabo USB.</br>
 <br>2.	No Arduino IDE, selecione a placa e a porta correspondente ao ESP32:</br>
  <br>•	Vá em Tools > Board e selecione "DOIT ESP32 DEVKIT V1".</br>
  <br>•	Vá em Tools > Port e selecione a porta onde o ESP32 está conectado.</br>
 <br>3.	Clique em Upload para carregar o código no ESP32.</br>
 
-<br>#💻Monitoramento</br>
+## 💻Monitoramento
 <br>•	Abra o Serial Monitor (Ctrl + Shift + M) para ver os dados de depuração e confirmar se o ESP32 está conectando ao Wi-Fi e enviando dados ao Firebase corretamente.</br>
 
-<br>#📱Conexão com o Aplicativo desenvolvido no Flutter Flow</br>
+## 📱Conexão com o Aplicativo desenvolvido no Flutter Flow
 <br>Para visualizar os dados do sensor em um aplicativo móvel, vamos configurar o Flutter Flow e conectá-lo ao Firebase.</br>
 <br>1. Requisitos</br> 
  <br>•	Conta no Flutter Flow</br>
  <br>•	Conexão Wi-Fi</br>
  <br>•	Conta no Firebase</br>
-<br>#📱Passo a Passo para Configuração do Flutter Flow</br>
+<br> ##📱Passo a Passo para Configuração do Flutter Flow</br>
 <br>1.	Criar Conta no Flutter Flow:</br>
  <br>•	Vá para o site do <a href="https://flutterflow.io">Flutter Flow</a> e crie uma conta.</br>
  
