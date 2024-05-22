@@ -107,7 +107,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
  <br>•	Na caixa de busca, digite "WiFi".</br>
  <br>•	Selecione a biblioteca WiFi para ESP32 e clique em "Install".</br>
  
- <br> ##⚙Configuração do Hardware</br>
+ ## ⚙Configuração do Hardware
  <br>1.	Conectar o Sensor DS18B20 ao ESP32:</br>
 <br>•	Conecte o 3.3V do ESP32 à barra de alimentação positiva (+) na protoboard.</br>
 <br>•	Conecte o GND do ESP32 à barra de alimentação negativa (-) na protoboard.</br>
