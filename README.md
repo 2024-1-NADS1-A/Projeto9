@@ -57,17 +57,17 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## 🛠 Requisitos
-	   🛠 Hardware:
-•	ESP32
-•	Sensor de temperatura DS18B20
-•	Sensor de turbidez
-•	Protoboard e Jumpers
-•	Conexão Wi-Fi
-    💻 Software:
-•	Arduino IDE
-•	Conta no Firebase
-•	Conta no Flutter Flow (para visualização dos dados)
+<br>## 🛠 Requisitos</br>
+<br>🛠 Hardware</br>
+<br>•	ESP32</br>
+<br>•	Sensor de temperatura DS18B20</br>
+<br>•	Sensor de turbidez</br>
+<br>•	Protoboard e Jumpers</br>
+<br>•	Conexão Wi-Fi</br>
+<br>💻 Software:</br>
+<br>•	Arduino IDE</br>
+<br>•	Conta no Firebase</br>
+<br>•	Conta no Flutter Flow (para visualização dos dados)</br>
 
 
 <b>Android:</b>
