@@ -57,7 +57,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-<br>## 🛠 Requisitos</br>
+<br>##📖 Requisitos</br>
 <br>🛠 Hardware</br>
 <br>•	ESP32</br>
 <br>•	Sensor de temperatura DS18B20</br>
@@ -68,6 +68,26 @@ Há também 4 pastas que seguem da seguinte forma:
 <br>•	Arduino IDE</br>
 <br>•	Conta no Firebase (para transmissão de dados)</br>
 <br>•	Conta no Flutter Flow (para visualização dos dados)</br>
+
+#⌨Instalação Arduino IDE
+
+<br>•Instale o <a href=" https://www.arduino.cc/en/software">Arduino IDE</a> a partir do site oficial.</br>
+<br>•	Abra o Arduino IDE após a instalação.</br>
+
+<br#⚙Configuração do Arduino IDE para ESP32:</br>
+<br>•	No Arduino IDE, vá em File > Preferences.</br>
+<br>•	Adicione a URL a seguir ao campo "Additional Board Manager URLs": https://dl.espressif.com/dl/package_esp32_index.json<br>
+<br>•	Vá em Tools > Board > Boards Manager, procure por "esp32" e clique em instalar.</br>
+
+<br>#💻Instalação de Bibliotecas</br>
+<br>•	Firebase ESP Client:</br>
+•	Acesse o repositório no GitHub: <a href=" https://github.com/mobizt/Firebase-ESP-Client"> Firebase ESP Client</a>.
+<br>•	Clique no botão "Code" e selecione "Download ZIP" para baixar a biblioteca em formato .zip.</br>
+<br>•	Abra o Arduino IDE.</br>
+<br>•	Vá em Sketch > Include Library > Add .ZIP Library....</br>
+<br>•	Navegue até o local onde você baixou o arquivo .zip e selecione-o.</br>
+<br>•	A biblioteca será adicionada e estará disponível para uso em seus projetos.</br>
+
 
 
 <b>Android:</b>
