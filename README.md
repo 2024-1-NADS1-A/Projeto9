@@ -162,7 +162,7 @@ Coloque código do prompt de comnando se for necessário
  <br>•	Conta no Flutter Flow</br>
  <br>•	Conexão Wi-Fi</br>
  <br>•	Conta no Firebase</br>
-<br> ##📱Passo a Passo para Configuração do Flutter Flow</br>
+## 📱Passo a Passo para Configuração do Flutter Flow
 <br>1.	Criar Conta no Flutter Flow:</br>
  <br>•	Vá para o site do <a href="https://flutterflow.io">Flutter Flow</a> e crie uma conta.</br>
  
