@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Projeto para medir a temperatura e turbidez da água.
+# Projeto de Medição de Temperatura e Turbidez da Água com ESP32 e Firebase.
 
 ## Grupo Ocean
 
@@ -57,7 +57,18 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## 🛠 Instalação
+## 🛠 Requisitos
+	   🛠 Hardware:
+•	ESP32
+•	Sensor de temperatura DS18B20
+•	Sensor de turbidez
+•	Protoboard e Jumpers
+•	Conexão Wi-Fi
+    💻 Software:
+•	Arduino IDE
+•	Conta no Firebase
+•	Conta no Flutter Flow (para visualização dos dados)
+
 
 <b>Android:</b>
 
@@ -127,3 +138,7 @@ Aqui estão as referências usadas no projeto.
 4. Maretório: o impacto da maré nos territórios de comunidades costeiras. Disponível em: https://tinyurl.com/4htym3nc. Acesso em: 25 abr. 2024.
 5. Efeitos do aquecimento global ameaçam vida marinha. Disponível em: https://tinyurl.com/bdcfmnnr. Acesso em: 25 abr. 2024.
 6. Paulo Horta et a. Mudanças Climáticas e a zona costeira do Brasil: vulnerabilidades socioambientais e estratégias de ação. Vol.11.3, dez/2020. Disponível em: https://tinyurl.com/mrxezh7w. Acesso em: 25 abr. 2024.
+7. Random Nerd Tutorials. ESP32 with DS18B20 Temperature Sensor using Arduino IDE. Disponível em: https://randomnerdtutorials.com/esp32-ds18b20-temperature-arduino-ide/. Acesso em: 22 maio 2024.
+8. Blog da Robótica. Como utilizar o módulo sensor de turbidez de partículas suspensas na água com Arduino. Disponível em: https://www.blogdarobotica.com/2023/01/10/como-utilizar-o-modulo-sensor-de-turbidez-de-particulas-suspensas-na-agua-com-arduino/. Acesso em: 22 maio 2024.
+9. TFK IoT Blog. Send DHT11 Sensor Data to Firebase. Disponível em: https://tfkiot.blogspot.com/2023/12/send-dht11-sensor-data-to-firebase.html. Acesso em: 22 maio 2024.
+10. TFK IoT GitHub. Esp32-Esp8266_Send_DHT11_Data_To_FireStore. Disponível em: https://github.com/tfkiot/Esp32-Esp8266_Send_DHT11_Data_To_FireStore/tree/main. Acesso em: 22 maio 2024.
