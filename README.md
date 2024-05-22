@@ -66,7 +66,7 @@ Há também 4 pastas que seguem da seguinte forma:
 <br>•	Conexão Wi-Fi</br>
 <br>💻 Software:</br>
 <br>•	Arduino IDE</br>
-<br>•	Conta no Firebase</br>
+<br>•	Conta no Firebase (para transmissão de dados)</br>
 <br>•	Conta no Flutter Flow (para visualização dos dados)</br>
 
 
