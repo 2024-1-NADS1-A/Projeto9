@@ -57,6 +57,13 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``C++``
+- ``Arduino IDE``
+- ``Banco de Dados Firebase``
+- ``Flutter Flow``
+
 ## 📖 Requisitos
 <br>🛠 Hardware</br>
  <br>•	ESP32</br>
