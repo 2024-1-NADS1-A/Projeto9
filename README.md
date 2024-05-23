@@ -4,7 +4,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Projeto de Medição de Temperatura e Turbidez da Água com ESP32 e Firebase.
+# Projeto Baseado nos Objetivos de Desenvolvimento Sustentável para monitorar a Temperatura e Turbidez da Água.
 
 ## Grupo Ocean
 
@@ -25,6 +25,8 @@ O aumento da temperatura dos oceanos é uma ameaça grave para a biodiversidade 
 Esse sistema permitirá avaliar a saúde dos ecossistemas marinhos ao fornecer dados precisos e em tempo real sobre a temperatura e a qualidade da água em regiões críticas, como próximas a recifes de coral. Os dados serão transmitidos para um banco de dados Firebase, que estará conectado a um aplicativo mobile desenvolvido no Flutter Flow. Esse aplicativo permitirá que os usuários visualizem e compreendam as variações de temperatura e turbidez da água de forma acessível.
 
 Além de fornecer informações cruciais para a conservação marinha sustentável, o projeto visa promover a conscientização sobre a importância da preservação dos ecossistemas marinhos. Esperamos que esses dados influenciem positivamente políticas públicas e práticas de conservação ambiental para proteger o meio ambiente costeiro e garantir a sustentabilidade dos recursos marinhos no Brasil.
+
+
 
 ## 🛠 Estrutura de pastas
 
