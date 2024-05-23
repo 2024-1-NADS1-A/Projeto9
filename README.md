@@ -145,16 +145,6 @@ https://dl.espressif.com/dl/package_esp32_index.json
 #define USER_PASSWORD "sua-senha"
 ```
 
-<br></br>
-
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
 ## ⌨Carregar o Código no ESP32
 <br>1.	Conecte o ESP32 ao computador via cabo USB.</br>
 <br>2.	No Arduino IDE, selecione a placa e a porta correspondente ao ESP32:</br>
