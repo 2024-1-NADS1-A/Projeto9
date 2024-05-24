@@ -18,7 +18,7 @@
 
 <p align="center">
 <img src="![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)" border="0">
-  Feito por Alexandra Christine, Hebert dos Reis Esteves, Karoline Lemos Avelar, Matheus Santos Morais</a> 
+  <a> Feito por: <a> <a href="https://www.linkedin.com/in/alexandra-christine-silva-590092257">Alexandra Christine </a>, <a href="https://linkedin.com/in/hebert-/">Hebert dos Reis Esteves	</a>, <a href="https://www.linkedin.com/in/karoline-lemos-540461296/">Karoline Lemos Avelar	</a>, <a href="https://www.linkedin.com/in/matheus-santos-morais/">Matheus Santos Morais	</a>.
 </p>
 
 
@@ -36,26 +36,18 @@ Além de fornecer informações cruciais para a conservação marinha sustentáv
 |<br>
 |-->documentos<br>
   &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+  &emsp;|Projeto+de+extensão+-+Grupo+°cean_atualizado_com_sensor de turbidez.docx<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
 |readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
-
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
 Há também 4 pastas que seguem da seguinte forma:
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
 
 <b>imagens</b>: Imagens do sistema
 
