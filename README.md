@@ -13,10 +13,12 @@
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valentea</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>.
 
 ## Descrição
+![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)
+
 
 <p align="center">
-<img src="7f7eaee" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)" border="0">
+  Feito por Alexandra Christine, Hebert dos Reis Esteves, Karoline Lemos Avelar, Matheus Santos Morais</a> 
 </p>
 
 
@@ -67,6 +69,8 @@ Há também 4 pastas que seguem da seguinte forma:
 - ``Flutter Flow``
 
 ## 📖 Requisitos
+![equipamentos](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/1d33c70f-3e62-4414-8b26-f7d5601d1520)
+
 <br>🛠 Hardware</br>
  <br>•	ESP32</br>
  <br>•	Sensor de temperatura DS18B20</br>
@@ -137,13 +141,19 @@ https://dl.espressif.com/dl/package_esp32_index.json
  <br>•	Dentro da coleção leitura, crie um documento com campos correspondentes aos dados que você está enviando do ESP32: temperatura, turbidez, condicao, data, horario.</br>
  <br>•	Em configurações do projeto, copie o “Código do projeto” e a “Chave de API da Web”.</br>
  <br>•	Em Authentication, crie um usuário com email e senha.</br>
+
+ ![firebase](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/2dbc1989-21f0-4207-8746-d65eff2a4656)
+
 <br><strong>2.	Defina as credenciais no código:</strong></br>
+
 ```sh
 #define API_KEY "sua-chave-de-api"
 #define FIREBASE_PROJECT_ID "id-do-projeto"
 #define USER_EMAIL "seu-email@gmail.com"
 #define USER_PASSWORD "sua-senha"
-```
+````
+
+
 
 ## ⌨Carregar o Código no ESP32
 <br><strong>1.	Conecte o ESP32 ao computador via cabo USB.</strong></br>
@@ -173,7 +183,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
  <br>•	No painel do Flutter Flow, vá para a seção Settings e clique em Firebase.</br>
  <br>•	Siga as instruções para conectar seu projeto Firebase ao Flutter Flow.</br>
  <br>•	Adicione a URL da sua API, a chave do projeto, e outras credenciais do Firebase.</br>
- 
+
 <br><strong>4.	Configurar Coleções no Firebase</strong></br>
 <br><strong>5.	Design das Telas no Flutter Flow:</strong></br>
  <br>•	Crie uma nova tela para exibir os dados do sensor.</br>
@@ -190,6 +200,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
  <br>•	Após testar e garantir que tudo está funcionando, vá em App Settings, depois vá em Web Publishing e clique em Publish.</br>
  <br>•	Será gerado um link, como por exemplo: https://ocean-novinho-l5apv0.flutterflow.app/.</br>
  <br>•	Gere um atalho para simular um app.</br>
+
 
 ## 🗃 Histórico de lançamentos
 
