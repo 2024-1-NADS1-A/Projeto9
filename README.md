@@ -201,6 +201,15 @@ https://dl.espressif.com/dl/package_esp32_index.json
  <br>•	Será gerado um link, como por exemplo: https://ocean-novinho-l5apv0.flutterflow.app/.</br>
  <br>•	Gere um atalho para simular um app.</br>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/7f07536f-68a6-4bce-b40e-aa7eb00992b9" width="300"/></td>
+    <td><img src="https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/b702c91a-ab04-486b-9fdb-8d169a772b55" width="300"/></td>
+    <td><img src="https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/5ba3e0b6-dd68-4284-b306-570d78801220" width="300"/></td>
+    <td><img src="https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/4866f771-8f48-4088-9257-413d146f70d1" width="300"/></td>
+  </tr>
+</table>
+
 
 ## 🗃 Histórico de lançamentos
 
@@ -208,13 +217,10 @@ https://dl.espressif.com/dl/package_esp32_index.json
     * CONSERTADO: Correção no Bug da turbidez  (Hebert)
 * 0.2.0 - 21/05/2024
     * MUDANÇA: Compra da caixa organizadora (Alexandra)
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
+* 0.1.1 - 23/05/2024
+    * CONCLUÍDO: Atualização da Pesquisa de Extensão (Matheus e Karoline)
+* 0.1.0 - 24/05/2024
+    * CONCLUÍDO: Criação do README (Hebert e Alexandra)
 
 ## 📋 Licença/License
 
