@@ -12,10 +12,10 @@
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valentea</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>.
 
-## Introdução
+## ✏ Introdução
 <br> No contexto brasileiro, o aquecimento dos oceanos é uma preocupação que afeta diretamente a biodiversidade marinha, os ecossistemas costeiros e a população em geral e as consequências dessas mudanças climáticas são preocupantes. Sob esta perspectiva, os Objetivos de Desenvolvimento Sustentável (ODS) são essenciais em nosso projeto de monitoramento de temperatura para que esse problema seja acompanhado e controlado. Os ODS incluídos em nosso projeto são o Vida debaixo d'água (ODS 14) e a Ação climática (ODS 13).  Este estudo busca diminuir esses problemas através do monitoramento contínuo da temperatura e do grau de claridade dos oceanos e recifes de corais no território brasileiro, com o intuito de auxiliar ações de conservação e proteção ambiental. </br>
 
-## Descrição
+## 🔎 Descrição
 ![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)
 
 
